@@ -158,8 +158,7 @@ page = st.sidebar.radio(
     ],
 )
 
-st.sidebar.divider()
-st.sidebar.caption("Local models • No Ollama • No hosted API")
+
 
 
 # -------------------------------------------------------------------
