@@ -349,8 +349,11 @@ Run
 streamlit run app.py
 ```
 Streamlit community cloud
-"https://professional-ai-research-assistant-uugkszxqkvaooeeaksz56e.streamlit.app/"
+```bash
+https://professional-ai-research-assistant-uugkszxqkvaooeeaksz56e.streamlit.app/"
+```
 ---
+
 
 # 💡 Future Improvements
 
