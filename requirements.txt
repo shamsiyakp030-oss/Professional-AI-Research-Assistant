@@ -3,7 +3,9 @@ pandas
 numpy
 plotly
 scikit-learn
+
 torch
+torchvision
 transformers
 sentence-transformers
 faiss-cpu
@@ -11,11 +13,13 @@ huggingface-hub
 safetensors
 tokenizers
 sentencepiece
+
 pymupdf
 python-docx
 python-pptx
 openpyxl
 xlsxwriter
+
 gTTS
 reportlab
 requests
